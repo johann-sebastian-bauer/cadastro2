@@ -1,0 +1,24 @@
+#user{
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 30px;
+    height: 100px
+}
+
+#main{
+    margin: 25%;
+    padding: 10px;
+    width: fit-content;
+}
+
+#inputs{
+    border: 1px solid;
+    padding: 10px;
+    width: fit-content;
+}
+
+#entrar{
+    width: 100%;
+    height: 30px;
+}
